@@ -1,7 +1,7 @@
 {
   "name": "reacttodolist",
   "version": "0.1.0",
-  "homepage": "https://isaacshipman.github.io/TodoListApplication/",
+  "homepage": "https://IsaacShipman.github.io/TodoListApplication/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
