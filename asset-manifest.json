@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/IsaacShipman/TodoListApplication/static/css/main.f855e6bc.css",
+    "main.js": "/IsaacShipman/TodoListApplication/static/js/main.b70136ad.js",
+    "static/js/453.f0eb9727.chunk.js": "/IsaacShipman/TodoListApplication/static/js/453.f0eb9727.chunk.js",
+    "index.html": "/IsaacShipman/TodoListApplication/index.html",
+    "main.f855e6bc.css.map": "/IsaacShipman/TodoListApplication/static/css/main.f855e6bc.css.map",
+    "main.b70136ad.js.map": "/IsaacShipman/TodoListApplication/static/js/main.b70136ad.js.map",
+    "453.f0eb9727.chunk.js.map": "/IsaacShipman/TodoListApplication/static/js/453.f0eb9727.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.b70136ad.js"
+  ]
+}
